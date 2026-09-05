@@ -1,0 +1,15 @@
+{
+  "appId": "com.batchit.app",
+  "appName": "Batchit",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://ais-dev-ova257bak4yurfuiebhxwp-683189162498.asia-east1.run.app",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": true
+  }
+}

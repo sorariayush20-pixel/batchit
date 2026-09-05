@@ -1,0 +1,10 @@
+{
+  "name": "Batchit",
+  "description": "Real-time chat platform with end-to-end encryption, 24-hour stories, community posts and following, voice and HD video calling, synchronized website streaming & co-browsing, and an admin control panel.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,32 @@
+{
+  "short_name": "Batchit",
+  "name": "Batchit - E2EE Chat & Stories",
+  "description": "Ultra-secure end-to-end encrypted messaging, voice/video calls, and 24-hour stories.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#10b981",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "categories": ["social", "communication", "security"]
+}
